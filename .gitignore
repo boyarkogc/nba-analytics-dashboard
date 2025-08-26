@@ -1,0 +1,30 @@
+# Create .gitignore to prevent credential exposure
+cat << EOF > .gitignore
+# Virtual environment
+dashboard-env/
+env/
+
+# AWS credentials and sensitive data
+.env
+.aws/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
