@@ -1,0 +1,42 @@
+# NBA team color mapping - official primary colors
+NBA_TEAM_COLORS = {
+    "Boston Celtics": "#007A33",
+    "Brooklyn Nets": "#000000",
+    "New York Knicks": "#FF6900",
+    "Philadelphia 76ers": "#006BB6",
+    "Toronto Raptors": "#CE1141",
+    "Chicago Bulls": "#CE1141",
+    "Cleveland Cavaliers": "#860038",
+    "Detroit Pistons": "#C8102E",
+    "Indiana Pacers": "#002D62",
+    "Milwaukee Bucks": "#00471B",
+    "Atlanta Hawks": "#E03A3E",
+    "Charlotte Hornets": "#1D1160",
+    "Miami Heat": "#98002E",
+    "Orlando Magic": "#0077C0",
+    "Washington Wizards": "#002B5C",
+    "Denver Nuggets": "#0E2240",
+    "Minnesota Timberwolves": "#0C2340",
+    "Oklahoma City Thunder": "#007AC1",
+    "Portland Trail Blazers": "#E03A3E",
+    "Utah Jazz": "#002B5C",
+    "Golden State Warriors": "#1D428A",
+    "Los Angeles Clippers": "#C8102E",
+    "Los Angeles Lakers": "#552583",
+    "Phoenix Suns": "#1D1160",
+    "Sacramento Kings": "#5A2D81",
+    "Dallas Mavericks": "#00538C",
+    "Houston Rockets": "#CE1141",
+    "Memphis Grizzlies": "#5D76A9",
+    "New Orleans Pelicans": "#0C2340",
+    "San Antonio Spurs": "#C4CED4",
+}
+
+# Denver Nuggets color palette for theming
+NUGGETS_COLORS = {
+    "navy": "#0E2240",
+    "gold": "#FEC524",
+    "red": "#8B2635",
+    "white": "#FFFFFF",
+    "light_gray": "#F5F5F5",
+}
